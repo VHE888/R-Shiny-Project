@@ -1,11 +1,11 @@
-# BF591 RShiny Final Project
+# RShiny Application for RNA-seq Analysis
 
 **Wenshou He**\
-**2024 Fall**
+**12/28/2024**
 
 ## Description
 
-This project is an RShiny app designed for analyzing mRNA-Seq data from Huntington's Disease and healthy brain tissue. The app includes four main components:
+This application is an RShiny app designed to analyze RNA-Seq data from Huntington's Disease and healthy brain tissue. The app includes four main components:
 
 1.  **Sample Information Exploration**: Summary tables and distribution plots of sample information.
 2.  **Counts Matrix Exploration**: Count filtering, scatterplots, clustered heatmap, and PCA.
